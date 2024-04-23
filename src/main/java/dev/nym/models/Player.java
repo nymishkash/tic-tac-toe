@@ -2,6 +2,6 @@ package dev.nym.models;
 
 public class Player {
     private String name;
-    private Character symbol;
+    private Symbol symbol;
     private PlayerType playerType;
 }

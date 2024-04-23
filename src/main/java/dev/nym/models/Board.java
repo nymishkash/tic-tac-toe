@@ -4,5 +4,5 @@ import java.util.List;
 
 public class Board {
     Long size;
-    List<List<Cell>> list;
+    List<List<Cell>> cells;
 }

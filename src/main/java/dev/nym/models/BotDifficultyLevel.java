@@ -1,5 +1,7 @@
 package dev.nym.models;
 
-public class BotDifficultyLevel {
-
+public enum BotDifficultyLevel {
+    EASY,
+    MEDIUM,
+    HARD
 }
