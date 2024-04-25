@@ -14,8 +14,8 @@ public class Main {
 
         int dimension = 3;
         List<Player> players = List.of(
-                new Player("Harsh", new Symbol('X'), PlayerType.HUMAN),
-                new Bot("Scaler", new Symbol('O'), PlayerType.BOT, BotDifficultyLevel.EASY)
+                new Player("Nymish", new Symbol('X'), PlayerType.HUMAN),
+                new Bot("Bot09", new Symbol('O'), PlayerType.BOT, BotDifficultyLevel.HARD)
         );
 
         Game game = gameController.startGame(dimension, players);
