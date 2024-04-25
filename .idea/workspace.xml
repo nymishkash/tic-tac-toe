@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4578465b-4d36-4a64-a135-f1fdb9d6459b" name="Changes" comment="third commit">
+    <list default="true" id="4578465b-4d36-4a64-a135-f1fdb9d6459b" name="Changes" comment="modified minor details">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/Main.java" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713884622441</updated>
       <workItem from="1713884623784" duration="3816000" />
-      <workItem from="1714059749005" duration="11158000" />
+      <workItem from="1714059749005" duration="11794000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714069062396</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modified minor details">
+      <option name="closed" value="true" />
+      <created>1714074938355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714074938355</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +141,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="modified minor details" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified minor details" />
   </component>
 </project>
