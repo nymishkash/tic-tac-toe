@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4578465b-4d36-4a64-a135-f1fdb9d6459b" name="Changes" comment="second commit" />
+    <list default="true" id="4578465b-4d36-4a64-a135-f1fdb9d6459b" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/nym/controllers/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/nym/exceptions/InvalidMoveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/nym/strategies/WinningAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/models/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/models/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/models/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/models/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/models/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/models/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/models/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/models/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/models/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/nym/models/Symbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/nym/models/Symbol.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +35,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nymishkash"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nymishkash&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/nymishkash/tic-tac-toe.git",
+    "url": "https://github.com/nymishkash/tic-tac-toe",
     "accountId": "477f8c7c-3c17-4a98-9ee9-8b37eb394a15"
   }
 }]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2fbB9dAYHPVSiEGkH4mfLEKmGDB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -42,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -70,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713884622441</updated>
       <workItem from="1713884623784" duration="3816000" />
+      <workItem from="1714059749005" duration="7764000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
